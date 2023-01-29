@@ -1,0 +1,16 @@
+id,nama,kategori,tahun_rilis,harga,stok
+GAME001,CS 1.6,FPS,2003,150.000,86
+GAME002,House of the Dead,FPS,1996,450.000,17
+GAME003,Plants vs Zombies,Strategy,2009,75.000,7
+GAME004,Genshin Impact,Action-Adventure,2020,0,94
+GAME005,FIFA 22,Sports,2021,850.000,28
+GAME006,NBA 2K22,Sports,2021,850.000,89
+GAME007,The Spectrum Retreat,Adventure,2018,185.000,61
+GAME008,GTA V,Single-player,2013,300.000,83
+GAME009,Final Fantasy 7 Remake,Adventure,2020,1.000.000,60
+GAME010,Half-Life,FPS,1998,150.000,65
+GAME011,Call Of Duty: Black Ops 3,FPS,2015,850.000,13
+GAME012,Hitman,Single-player,2016,650.000,47
+GAME013,Minecraft,Single-player,2009,385.000,51
+GAME014,PlanetSide 2,FPS,2012,0,98
+GAME015,Football Manager 2022,Sports,2021,550.000,82
